@@ -1,0 +1,1 @@
+﻿Start-DscConfiguration -Wait -Force -Verbose -Path .\FolderConfig -ComputerName Localhost
